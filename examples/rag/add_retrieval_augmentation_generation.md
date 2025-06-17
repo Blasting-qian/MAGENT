@@ -19,6 +19,3 @@ Are you working on a coding project? If so, what is it about?
 Are you stuck on a specific problem or error?
 Do you want suggestions for features, debugging, or next steps in your workflow?
 Let me know a bit more about your current situation, and I'll guide you on what to do next!
-
-
-what to do next?
